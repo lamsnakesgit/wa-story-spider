@@ -1,0 +1,6 @@
+node_modules/
+auth_info_baileys/
+.env
+*.log
+story_views.jsonl
+group_leads.jsonl
